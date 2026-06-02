@@ -1,0 +1,6 @@
+{
+  "name": "Perfect Finish",
+  "description": "Unikatni i ergonomski drveni proizvodi za kućne ljubimce i dom, spoj vrhunske stolarske preciznosti i ekološkog dizajna u Samoboru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
